@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Ha Van Suu
-=======
-asdasd
->>>>>>> cc61aa5ab6a53997d61817d037f2d69b8b966efb
+Ha Suu
